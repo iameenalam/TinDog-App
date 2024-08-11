@@ -12,7 +12,7 @@ TinDog is a fun and interactive platform designed for dog lovers. It enables use
 - Easy-to-navigate user interface
 
 ## Demo
-You can see a live demo of TinDog [here]([http://your-demo-link.com](https://tin-dog-startup-website.vercel.app/)).
+You can see a live demo of TinDog [here]((https://tindogg-app.vercel.app/)).
 
 ## Technologies Used
 - HTML
